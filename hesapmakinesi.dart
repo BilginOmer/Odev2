@@ -60,6 +60,8 @@ void main(List<String> arguments) {
       dongu == 0;
     }
   }
+  
+  stdout.write("Sonuç: ");
 
   switch (islem) {
     case ("+"):
